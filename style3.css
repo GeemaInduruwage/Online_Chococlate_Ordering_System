@@ -1,0 +1,33 @@
+/*styles of oder card*/
+
+.wrapper{
+	padding-top: 120px;
+}
+.card-img-top{
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+	
+}
+.card-body{
+	text-align: center;
+	box-shadow: 0px 15px 15px -8px rgba(0, 0, 0, 0.5);
+	background: #91672C;
+}
+.card-body h6{
+	font-size: 19px;
+	text-transform: lowercase;
+	color: white;
+}
+.card-title{
+		font-weight: bold;
+	font-size: 15px;
+
+}
+/*@media(max-width: 800px){
+	.mx-30{
+		margin-bottom: 30px;
+	}
+}*/
+
+
+
+

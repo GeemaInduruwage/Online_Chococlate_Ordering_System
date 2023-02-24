@@ -1,0 +1,40 @@
+/*Styles of navigation bar*/
+
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.navbar-brand{
+	font-size: 2rem;
+	color: black;
+	
+	
+}
+.navbar-brand:hover{
+	border: 1px;
+	color: black;
+}
+.nav-link{
+	margin-right: 10px;
+	margin-left: 10px;
+	color: black;
+	font-family: 'Noto Sans JP', sans-serif;
+	text-transform: uppercase;
+}
+.nav-link:hover{
+	color: black;
+}
+nav a{
+	color: white;
+	font-size: 18px;
+	border: 1px solid transparent;
+	padding: 7px 10px;
+	border-radius: 2px;
+	
+}a:hover{
+	border: 1px solid white;
+	transform: .5s;
+	}
+
